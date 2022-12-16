@@ -12,5 +12,5 @@ if sexo == 'f' or sexo == 'F' or sexo == 'm' or sexo == 'M':
             print('operacao errada')
 
 else:
-    print('Operador de sexo inexistente.')
+    print('So aceitamos a sigla = [F] ou [M]')
 

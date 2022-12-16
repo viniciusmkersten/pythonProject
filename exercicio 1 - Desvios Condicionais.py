@@ -6,7 +6,7 @@ somaAmaisB = a + b
 
 if somaAmaisB > c:
     print('a soma dos dois primeiros valores eh maior que a terceira.')
-elif(c > somaAmaisB):
+elif c > somaAmaisB:
     print('A soma dos dois primeiros valors eh menor que a terceira.')
 else:
     print('Os valores sao iguais.')

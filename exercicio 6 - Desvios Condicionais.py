@@ -1,9 +1,6 @@
 usuario = input('Digite o seu nome: ')
 idade = input('Digite a sua idade: ')
 
-
-
-
 if usuario and idade:
     print(f'Seu nome eh {usuario}')
     if ' ' in usuario:
@@ -20,20 +17,10 @@ if usuario and idade:
         n = usuario.rstrip(' ')
         m = n.__len__()
 
-
-        print('A primeira letra do seu nome eh ',usuario[0])
-        print('A ultima letra do seu nome eh ',ultimaLetra)
+        print('A primeira letra do seu nome eh ', usuario[0])
+        print('A ultima letra do seu nome eh ', ultimaLetra)
 
         print(f'Seu nome tem {m} letras.')
 
 else:
     print('Por favor, preencha todos os campos!')
-
-
-
-
-
-
-
-
-

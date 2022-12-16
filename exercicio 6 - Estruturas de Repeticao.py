@@ -13,7 +13,7 @@ while contador <= 2:
 
     salario = float(input('Digite seu salario: '))
     while salario < 0:
-    salario = float(input('O salario nao pode ser negativo! '))
+        salario = float(input('O salario nao pode ser negativo! '))
 
 contador += 1
 
