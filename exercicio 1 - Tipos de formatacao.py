@@ -3,7 +3,7 @@ idade = int(input('Digite sua idade'))
 nacionalidade = str(input('Digite sua nacionalidade'))
 hobby = str(input('Digite seu Hobby'))
 
-print('O seu nome eh: ', nome)
+print('O seu nome eh: \n', nome)
 
 print(f'A sua idade eh:{idade}')
 

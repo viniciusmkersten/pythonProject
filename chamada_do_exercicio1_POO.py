@@ -1,6 +1,6 @@
-from exercicio1_POO import *
+from exercicio1_POO import Saulo
 
-objeto = Funcionario('Vinicius', '3000')
-objeto.mostrarNome()
-objeto.mostrarSalario()
+objeto = Saulo('Guita')
+objeto.mostrarInstrumento()
+#objeto.mostrarSalario()
 
