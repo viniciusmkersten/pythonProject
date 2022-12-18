@@ -16,3 +16,5 @@ class Saulo:
 
     def mostrarInstrumento(self):
         print(f'O instrumento de Saulo é a {self.instrumento}')
+        
+print('Olha eu mexendo!')
